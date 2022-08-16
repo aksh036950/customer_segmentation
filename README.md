@@ -1,6 +1,6 @@
 # customer_segmentation
  ## Introduction
-In this project, i trained unsupervised machine learning algorithms to perform customer market segmentation.
+
 Market Segmentation enables sellers to create targeted marketing messages for a specific group of customers which increases the chances of the person buying a product. This helps the companies in establishing better customer relationships and their overall performance as an organization.
  ## dataset from kaggle
 Credit card data is collected from kaggle dataset.
